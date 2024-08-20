@@ -1,2 +1,5 @@
-# Dayz-Vanilla-Ghost-Icons-List
-Dayz Vanilla Ghost Icons List
+# Replace-Word-BASH-SCRIPT
+
+#
+
+Simple Bash Script To Replace A Word With Your Chosen Word Within A File
