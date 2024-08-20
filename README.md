@@ -1,6 +1,6 @@
 # Replace-Word-BASH-SCRIPT
 
-<hr/>
+
 
 Simple Bash Script To Replace A Word With Your Chosen Word Within A File
 <hr/>
